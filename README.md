@@ -33,8 +33,8 @@ pip freeze > requirements.txt
 
 Upload An Image:
 
-<img src="service.PNG" width="50%" height="50%" />
+<img src="https://github.com/KiLJ4EdeN/ai_project_template/blob/master/images/service.PNG" width="50%" height="50%" />
 
 Get the Results:
 
-<img src="results.PNG" width="50%" height="50%" />
+<img src="https://github.com/KiLJ4EdeN/ai_project_template/blob/master/images/results.PNG" width="50%" height="50%" />
