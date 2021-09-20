@@ -1,5 +1,4 @@
-# Streamlit_Minimal_ML
-minimal image classification ui
+# ai_project_template
 python version -> 3.6
 
 ## Usage
