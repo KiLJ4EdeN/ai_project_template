@@ -1,6 +1,6 @@
 # TESTS
 
-here we write test to ensure for example:
+here we write tests to ensure that for example:
 the preprocessing part of the code is working fine
 getting the right input and returning the correct output
 
